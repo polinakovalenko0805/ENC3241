@@ -5,4 +5,4 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+<img src="cover_letter.png" width="600">
