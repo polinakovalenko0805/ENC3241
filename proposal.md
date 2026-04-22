@@ -55,13 +55,13 @@ This research applies user-centered design principles by prioritizing real user 
 
 ## References (APA)
 Anderson, M. (2019). Mobile technology and home broadband 2019. Pew Research Center.  
-https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/
+    https://www.pewresearch.org/internet/2019/06/13/mobile-technology-and-home-broadband-2019/
 
 Firth, J., et al. (2017). The efficacy of smartphone-based mental health interventions for depressive symptoms. World Psychiatry, 16(3), 287–298.  
-https://doi.org/10.1002/wps.20472  
+    https://doi.org/10.1002/wps.20472  
 
 U.S. Department of Education. (2020). Campus safety and security.  
-https://ope.ed.gov/campussafety/#/  
+    https://ope.ed.gov/campussafety/#/  
 
 ## Timeline
 
