@@ -5,9 +5,6 @@ title: Resume
 
 # Resume
 ---
-layout: default
-title: Resume
----
 
 # Polina Kovalenko
 
