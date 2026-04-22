@@ -29,7 +29,7 @@ Click the **New** button near the repositories section.
 ### Step 4
 Enter a clear and descriptive repository name (e.g., "portfolio-project").
 
-![Figure 2](figure2.png)
+<img src="figure2.png" width="400">
 
 *Figure 2. Creating a new repository.*
 
@@ -44,7 +44,7 @@ Click the **Create repository** button.
 Locate the section that says:
 “Get started by creating a new file or uploading an existing file.”
 
-![Figure 3](figure3.png)
+<img src="figure3.png" width="400">
 
 *Figure 3. Upload file section.*
 
@@ -53,7 +53,7 @@ Locate the section that says:
 ### Step 7
 Drag and drop your project files into the upload area.
 
-![Figure 4](figure4.png)
+<img src="figure4.png" width="400">
 
 *Figure 4. Uploading files to a repository.*
 
